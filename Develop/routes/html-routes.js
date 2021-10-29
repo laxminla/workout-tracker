@@ -1,6 +1,6 @@
 // required dependency
 const path = require("path");
-// epmorting router method
+// emporting router method
 const router = require("express").Router();
 
 // get route for index.html page
@@ -9,12 +9,12 @@ router.get("/", function (req, res) {
 });
 
 // GET route for exercise html page
-router.get("/", function (req, res) {
+router.get("/exercise", function (req, res) {
     res.sendFile(path.join(__dirname, "../public/exercise.html"));
 });
 
 // GET route for stats.html page
-router.get("/", function (req, res) {
+router.get("/stats", function (req, res) {
     res.sendFile(path.join(__dirname, "../public/stats.html"));
 });
 
