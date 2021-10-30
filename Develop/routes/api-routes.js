@@ -48,7 +48,7 @@ router.post("/api/workouts", (req, res) => {
 
 
 // GET route to get workout in a range
-
+// API.getWorkoutsInRange().then(populateChart);
 router.get("/api/workouts/range", (req, res) => {
     db.Workout.find({})
         .then(dbWorkout => {
