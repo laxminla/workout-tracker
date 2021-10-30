@@ -27,8 +27,8 @@ App deployed on heroku
 
 
 ## Git and Heroku Links
-https://github.com/laxminla/Project2.git
-https://radiant-peak-58027.herokuapp.com/
+https://github.com/laxminla/workout-tracker.git
+
 
 ## Linkedin
 laxminla@linkedin.com
