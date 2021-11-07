@@ -23,11 +23,14 @@ App deployed on heroku
 - run npm run seed
 
 ## App Screen Shots
+<img width="576" alt="screenshot" src="https://user-images.githubusercontent.com/82288418/140664869-1726eac4-6574-4aa1-92b3-e0f8dacf1e79.png">
 
+<img width="768" alt="screenshot1" src="https://user-images.githubusercontent.com/82288418/140664908-73264265-9858-4774-8629-ac8c9b488c05.png">
 
 
 ## Git and Heroku Links
 https://github.com/laxminla/workout-tracker.git
+https://calm-ravine-53409.herokuapp.com
 
 
 ## Linkedin
